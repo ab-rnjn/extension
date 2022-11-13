@@ -1,0 +1,12 @@
+// this package.json is not used currently
+{
+  "name": "extension",
+  "version": "1.0.0",
+  "description": "browser extension for youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Ranjan",
+  "license": "MIT"
+}

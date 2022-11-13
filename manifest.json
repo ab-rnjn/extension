@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "extension",
+    "description": "browser extension for youtube",
+    "version": "1.0",
+    "permissions":[
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "chrome.png"
+    }
+  }
